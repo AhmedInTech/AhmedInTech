@@ -1,4 +1,4 @@
-<h1>Hello there, I'm Ahmedou, an <a href="https://linkedin.com/in/ahmedintech">IT Professional</a>☺</h1>
+<h1>Hello there, I'm Ahmedou, an <a href="https://linkedin.com/in/ahmedintech">IT Professional</a></h1>
 
 <h2>Information Technology Projects:</h2>
 
