@@ -17,4 +17,4 @@
 
 [linkedin]: https://linkedin.com/in/ahmedintech
 [youtube]: https://youtube.com/in/ahmedintech
-[twitter]: https://twitter.com/in/ahmedintech
+[twitter]: https://twitter.com/AhmedInTech
