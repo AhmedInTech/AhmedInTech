@@ -2,7 +2,7 @@
 
 <h2>Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
+- <b>Installing osTicket In The Cloud Using Azure (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/ahmedintech/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/ahmedintech/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/ahmedintech/ticket-lifecycle)
