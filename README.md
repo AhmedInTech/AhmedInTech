@@ -16,5 +16,5 @@
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 [linkedin]: https://linkedin.com/in/ahmedintech
-[youtube]: https://www.youtube.com/@AhmedInTech_
+[youtube]: https://www.youtube.com/@_AhmedInTech_
 [twitter]: https://twitter.com/AhmedInTech
